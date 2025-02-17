@@ -43,6 +43,3 @@ BUILD FAILED
 build.xml:17 Unable to find a javac compiler;
 ```
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
-
-Following steps 3 and 4 I used git reset HEAD~1 to undo my recently made commit I have not pushed now following step 4.6 
-I am making further edits to the README.md file, and commiting and pushing my changes
